@@ -1,0 +1,1 @@
+At this moment all tasks here are written as is. May be later I will refactor some of them in more beauty way.
