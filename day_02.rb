@@ -1,0 +1,294 @@
+arr = %w(
+wkzhyfdpluzeqvajtbbosngkxc
+wrzhyfdplumeqvajtbioskfksc
+wrzhyfdolumyqvajtbiosngkxs
+urzhyfdplbmeqvrjtbiosngkxc
+wrzhyfrulumeqvajtbiosngkxf
+wrzhnfdprumvqvajtbiosngkxc
+wrzhyfpplumeivajtbiosrgkxc
+wrzhybdplumeqvaftbiosxgkxc
+wrzgyfdplumeqvaltbiosngcxc
+wrzhbfdzlumeqvajtbipsngkxc
+wrzhyfdplumwqeajtbiosngxxc
+wrzhyddplumeqvajtbimsngkxo
+wrzhyfdplumsqdajtfiosngkxc
+wrzvyfdplumeqjajtbkosngkxc
+wrzhyfddlumeqvujtbiosngxxc
+nrzhywdplumeqvajtbtosngkxc
+wzzhyfdplomeqvdjtbiosngkxc
+urzhyfdplumeqvaatbiosngkxb
+wtzyyfdplumeqvajtbiosngkxl
+wrzhyfdhlumnqvajebiosngkxc
+wrzhyfdplumpqvajtbiosnyjxc
+wrzdyfdplumeqvajtviospgkxc
+wrzhyfdplzmeqvajtbiosegfxc
+wrzhyfdglumkqvajtwiosngkxc
+wrzhtfdplgmeqvaqtbiosngkxc
+wrzhyfdplumeqvajxpiosngexc
+frzhyfdplvmeqvajtbiosngkxp
+wrzhyfkplumeqvajtbfosngkpc
+irzhyfqplumeqvajtbiosngktc
+wrzhyfdpluvoqvajtbioingkxc
+wrzhyfdplumemvautbuosngkxc
+wfzhyflplumeqvijtbiosngkxc
+wrzhyfdglumeqvzjkbiosngkxc
+wrzcyfdplaneqvajtbiosngkxc
+wrzhbfdplumeqwajtbiosngpxc
+szdhyfdplumeqvajtbiosngkxc
+krzhyfdplumeqvajtxilsngkxc
+brzhyfmplumexvajtbiosngkxc
+wrzhyvdplumeqvajtbiosiglxc
+orzhyfdplumeqvaotbcosngkxc
+hrzhyfdplumeqvaptbiocngkxc
+wwzhyfdklummqvajtbiosngkxc
+wrzhyfdppymeqvvjtbiosngkxc
+wsehyudplumeqvajtbiosngkxc
+wrzhyzpplumeqvajtbioscgkxc
+wrzhyfqpyumeqvajtbiusngkxc
+urzhyfdpdumeqmajtbiosngkxc
+wrzhyfdrlumxqvajtbiosnakxc
+wrthyfdplumeskajtbiosngkxc
+wrzhyfdplymeqvajtbiesbgkxc
+wrzhyfdqlumeqyajtciosngkxc
+trzhsfdplumeqyajtbiosngkxc
+wpzhyfdplimeqvajtbiosngfxc
+wrzhhfdplrmeqvajtbiosngkxx
+wrzhycdpgumeqvajtbioslgkxc
+wrzhyfdelumeqvajgtiosngkxc
+wrzhyfdplutebvajtbiosygkxc
+wrzhyfdplukeqvajtbiorngkec
+erzhyfdilumeqvajwbiosngkxc
+wrzhyfdplumnivxjtbiosngkxc
+wrzhyfdplumebvajtoiovngkxc
+wrzhyfdplumeqvajtbtosnwkxe
+wrzhyfxplumevvajtciosngkxc
+wbzhyfdxlumeqvajtriosngkxc
+wrzyyfdplumeqvajmbiosngkxb
+wfthyfdplumeqvajtbiosngkdc
+wrzhuedplumeqvajtbgosngkxc
+wrzhifdplumeqvajtsrosngkxc
+wrzhyfdplumqqvajtaiosngkac
+krzhyfvvlumeqvajtbiosngkxc
+wrzhyfdplzmeqqajtbiosngkvc
+wrzhyfqplumeqvajtbiosngdxy
+wrzhyfdpluieqvajtbiosngjjc
+wrzhyfdvlumeqrajdbiosngkxc
+wrzhcfdpxumeqvajtbiotngkxc
+wrzhyfdprumeqvaitbiosngexc
+wrzhygdplumeqvpjtbiasngkxc
+wrzhyndplumeqvajtpiosngkoc
+wrzhyfdplumedvajtriowngkxc
+wezjyndplumeqvajtbiosngkxc
+wrmhyfdplumewiajtbiosngkxc
+wrztyfdplumeqnajtbiobngkxc
+wrzhyfdpyumeqvajjbijsngkxc
+wrfhyfdplumeqkajtbiosnqkxc
+wrzhyfdpllmezvartbiosngkxc
+wszhyfdplumeqeajtbiqsngkxc
+wrzhyfdplumeqwajtbnosnikxc
+wrzvyfqulumeqvajtbiosngkxc
+drzhyfdplureqvajtbiqsngkxc
+wrzhyfdplumeqjamtbigsngkxc
+wrzhyfdplumeqvajbbiosngzrc
+grzhyfdpuumeqvajtbicsngkxc
+wrrhyfdplumeqvajtgiosnggxc
+wrzhyfkplumvqvajtbiosnhkxc
+wrzhyfdplumeqvajtbicspgkxa
+wrzhyfdplumeqvajtiiosnggoc
+wfzhyfdplumyqvaytbiosngkxc
+wrzhyfdpcumeqvajtbibsnfkxc
+wrzhyfdplumeqvajtbigsnzkmc
+wrzhyfdplcmeqvqjtriosngkxc
+wrzhypdplwmeqvajtbiosnvkxc
+wrziyfdmlumeqvaatbiosngkxc
+wkzhyfdplsmeqvajobiosngkxc
+wrzhyfdplumeqvkjvliosngkxc
+wzzbyfdplumeqvajtbiolngkxc
+wrzhyfdplvweqvajtbipsngkxc
+wrzhyvdplumeqvujtbiosnfkxc
+wrbhyfdplumedvajtbiosnhkxc
+wrzhofdplumeqvajtbiosnskxy
+wrzhyfdplumeqvaetbiohwgkxc
+wezhyfoplumeqvajtbiosngmxc
+wrzhykdblumeqvajtbiosngkjc
+wrzhyddplwmeqvajtbioungkxc
+wrzhyldplumqqvajpbiosngkxc
+wrzhyfdtlumeqvajtbiusngkcc
+wrzhyfdilumeqvajtbiosdgkxk
+wrvhywdplumeqvajtbiosngoxc
+wrzhyfdpyumeqvajtkiomngkxc
+wrzhyfdpbummqvajtbiosngcxc
+wrzhyfdpljmeqvajlbiosngjxc
+wrzhyfdpmuieqdajtbiosngkxc
+wrzgrfdplumeqvaktbiosngkxc
+wrzhgrdpluueqvajtbiosngkxc
+wazhyfdplhmeqvaqtbiosngkxc
+wruhyfdplumeqvujtliosngkxc
+wrzvyfdslumeqvajtbiwsngkxc
+wrzhyfdplumeivactbiosqgkxc
+wrzpyfdpbumeqvajtbioszgkxc
+bgzhyfdplumeyvajtbiosngkxc
+wrzhyfkplumeqvajtbiotngkxh
+wrdhyfhplumexvajtbiosngkxc
+brzhyfdpgumeqvgjtbiosngkxc
+arzhqfdpeumeqvajtbiosngkxc
+wrzhyftplumeqvajfbiosnykxc
+wrzhyfdpcumeqvartbtosngkxc
+wrzhvfzplumdqvajtbiosngkxc
+wrzhyfdjlumeqvaetbiosjgkxc
+wrbhyfdplumeqvajjjiosngkxc
+wrxhyfdplumeqvajtbiyskgkxc
+wpzhyydplumeqvajtbiosqgkxc
+wrzhyfdplumzqvajtbzoongkxc
+crzhyfdplnmeqvajtbjosngkxc
+wrzhyfdpluveusajtbiosngkxc
+wrzhypdpluyecvajtbiosngkxc
+wrnhyfdplumeqvajtbioengoxc
+wrzhypdplumefvajybiosngkxc
+wrzhyfdplumeqvattviosngkdc
+wrzhyfdplqmeqbajtbiostgkxc
+wrghyfdpluveqvajtbiosngkxn
+wryhyfdplumeqvajrbiopngkxc
+wrzhyqdplumeqvajtbiwsngkxt
+wrmoyfdpluheqvajtbiosngkxc
+wrghyfdnlumeqvyjtbiosngkxc
+wrzpyfdplumevvaatbiosngkxc
+wrzhyfdplumhqvajtbiodngxxc
+wrzhyfdplumeqcajtbioyjgkxc
+wrzhyfdplumeqvajabirsngkgc
+wrzhtfnplukeqvajtbiosngkxc
+wqzhyfdplumeqvajtbiopegkxc
+lrzhzfdplumeqdajtbiosngkxc
+wrzzyfdplumeqvajnkiosngkxc
+wrzhyfdflmmeqvajmbiosngkxc
+wrzoyfdplumeqvjjtpiosngkxc
+wrzhyfdpmpmeqvajhbiosngkxc
+krvhyfdplumeqvajtbiossgkxc
+wrzhyfdplumeqvaetviosnmkxc
+wrzhyfzclumeqvajtbiosngwxc
+wrzhyfdpvumeqvajtbiosngkcv
+wrzhyfdpoumeqvajtbiozngoxc
+wrzhyfwglumeqvajtbxosngkxc
+wrshyfdplumeqiajtbiosngklc
+wrzhyfdptdmeqvajtziosngkxc
+wrwhyfdplumeqqajtbiosngkxj
+wrzlyfypldmeqvajtbiosngkxc
+wrzhyfdplumeqvajtbirknikxc
+wrzhyhdplumeqvajtbmosnbkxc
+wyzhyfiplumeqvwjtbiosngkxc
+wrzgyfsplumeqvajtziosngkxc
+wrzhrfdllumepvajtbiosngkxc
+wrzayfdplumeqvajtbiosqgktc
+whzhyfdplemnqvajtbiosngkxc
+wazhyfdplumeqvaptbioongkxc
+wrzhyfdpluueqvajtbiosnglvc
+wrzhyfdplumjqvajmbionngkxc
+wrzhofdplvmeqvajtbiosnqkxc
+wrzhfidpluzeqvajtbiosngkxc
+wrzhlfdpcumeqvaatbiosngkxc
+wrzhyfdplumewvajtbiosigkoc
+wrzjyfdplwmeqvajtbiodngkxc
+wrzhyfdplumeqnsjtniosngkxc
+wrzxyfdplxmeqvajtbiosngkdc
+wrzhyfdplumpqvartbuosngkxc
+orzhyfdplumeqzsjtbiosngkxc
+wrzhyfdplumebvawtbiosngkxt
+wrztyfdulumeqvajtbiosngkxy
+wrzhytdplumeqvajtbznsngkxc
+wrzhvfdplumeqvajtbinsngkxu
+wezmyfdplumeqvajhbiosngkxc
+wrzhhftplumeqvajtaiosngkxc
+wrzhyfgplumeqvajtbioskgjxc
+ujuhyfdplumeqvajtbiosngkxc
+wryhymdplumeqvaftbiosngkxc
+wrzhygdplumeqvajibiosfgkxc
+frzhyfdppumeqvavtbiosngkxc
+wruhyfdylumeqvajzbiosngkxc
+wrzhzfdplumeqvajtbwosygkxc
+wrzhyfdplumeqvaeteiojngkxc
+wrhhyfdplumeqvajtiiopngkxc
+irzhyfdplumeqvajtbiosngryc
+wrvhycdpzumeqvajtbiosngkxc
+wrzhyfdplumyqwajtboosngkxc
+wrzthfdplumeqvajtbioengkxc
+mrzhyfdalumeqvajtbiosngcxc
+wrzhyfdflumpqvajtbiosngkmc
+wrzhyfxplumeqvajtbiosnvkxo
+wrzhyfdglumeqvajtbiosnfkxu
+wrzhyfdnrumeqpajtbiosngkxc
+wrzhlipplumeqvajtbiosngkxc
+wrzhkfdplumemvajtbiohngkxc
+wrziyfdmlumeqvaatbiosngkoc
+wrzhyfdplwceqvajtbiosngzxc
+wrzhyfdplumpqvactbiosngixc
+wdzhyfdhdumeqvajtbiosngkxc
+wnzhyfdplumeqvajtbbosngrxc
+wrzhyfdblumeqvajtbiosngvxw
+wyzhyfxpkumeqvajtbiosngkxc
+wrzhywdplumjqvajgbiosngkxc
+wrzhyfdpxumhqvajtbiokngkxc
+wrzhxfpplumeqvajtbiosngkxk
+mrzhyfdplumeqkajubiosngkxc
+drzhyfdplumeqvajtbioingnxc
+wrekyfdplumeqvajtbidsngkxc
+wrzhyfdplumeanyjtbiosngkxc
+wrzhyddpluzeqvajtbiosngtxc
+wrzfyfdplumeqvaqtbiosngkxr
+wrghywdpluneqvajtbiosngkxc
+wrzhyfdplueeqvaptbioyngkxc
+wrzhyqdpllmeqvajtbiosngdxc
+whzhyfdxlumeqvajtbiosngksc
+wrzjyfdplumeqvuitbiosngkxc
+brzhyfdplumeqhajtbiolngkxc
+wrzhyfqclureqvajtbiosngkxc
+wwzhpfdplureqvajtbiosngkxc
+wrzhyfdplumeqvavebijsngkxc
+wrzhyfdpuumeqvajtsiosnkkxc
+wrxhyfuplumeqvajtbiosngpxc
+wrzhyfdplumeqvujlbiospgkxc
+wrzvyfdplumeqvajtbiwsngpxc
+wrzhyndplumeqvajtbiwsnekxc
+wrzhkfdpoumeqvautbiosngkxc
+)
+
+### part 1 ###
+
+result = [0, 0]
+
+arr.each do |el|
+  h = Hash.new(0)
+  el.split(//).each { |l| h[l] += 1 }
+  result[0] += 1 if h.values.include? 2
+  result[1] += 1 if h.values.include? 3
+end
+
+puts result.inspect
+puts "Checksum: #{result[0] * result[1]}"
+
+### part 2 ###
+diff = []
+arr.each do |el|
+  t_arr = arr - [el]
+  total_size = el.size
+  t_arr.map do |sub_el|
+    el_arr1 = sub_el.split(//)
+    el_arr2 = el.split(//)
+    # res = (el_arr1 & el_arr2).join
+    counter = 0
+    total_size.times { |i| counter += 1 if el_arr1[i] == el_arr2[i] }
+    # p res.size
+    diff << [el, sub_el] if counter == total_size - 1
+  end
+end
+
+puts diff.inspect
+
+a = diff[0][0]
+b = diff[0][1]
+
+puts (a.split(//) & b.split(//)).join
+
+wrziyfdmlueqvatbosngkc
+
+"wrziyfdmlumeqvaatbiosngkxc"
+"wrziyfdmlumeqvaatbiosngkoc"
